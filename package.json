@@ -1,6 +1,6 @@
 {
-  "name": "heatmap.js",
-  "version": "2.0.5",
+  "name": "@appinio/heatmap.js",
+  "version": "1.0.0",
   "description": "Dynamic JavaScript Heatmaps for the Web",
   "homepage": "https://www.patrick-wied.at/static/heatmapjs/",
   "author": {
